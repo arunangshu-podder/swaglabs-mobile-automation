@@ -1,0 +1,11 @@
+{
+  "platform_name": "Android",
+  "platform_version": "16",
+  "platform_build": "BP2A.250705.008",
+  "manufacturer": "Google",
+  "device_name": "Pixel 8",
+  "resolution": "1080x2400",
+  "automation_name": "UiAutomator2",
+  "auto_launch": true,
+  "enable_appium_behavior": true
+}

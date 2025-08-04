@@ -1,0 +1,9 @@
+{
+  "platform_name": "android",
+  "platform_version": "35",
+  "device_name": "Pixel 7",
+  "automation_name": "UiAutomator2",
+  "udid": "auto",
+  "language": "en",
+  "locale": "en_US"
+}

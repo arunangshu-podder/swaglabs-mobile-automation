@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="methods" thread-count="1" verbose="1">
+
+  <groups>
+    <run>
+      <include name="Dev"/>
+    </run>
+  </groups>
+
+  <listeners>
+    <listener class-name="com.saucedemo.app.controller.ListenerManager"/>
+  </listeners>
+
+  <test name="SauceDemo - Dev Test Execution">
+    <packages>
+      <package name="com.saucedemo.app.tests"/>
+    </packages>
+  </test>
+</suite>

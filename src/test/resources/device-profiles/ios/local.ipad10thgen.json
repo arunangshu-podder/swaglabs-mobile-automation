@@ -1,0 +1,9 @@
+{
+  "platform_name": "iOS",
+  "platform_version": "17.0",
+  "device_name": "iPad 10th Generation",
+  "automation_name": "XCUITest",
+  "udid": "auto",
+  "language": "en",
+  "locale": "en_US"
+}
